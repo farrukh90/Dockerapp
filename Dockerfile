@@ -1,2 +1,2 @@
-FROM   httpd:latest
+FROM   httpd
 LABEL  maintainer="farrukhsadykov@gmail.com"
